@@ -1,0 +1,83 @@
+#heading1{
+color: brown;
+background-color: aquamarine;
+opacity: 30%;
+margin-left: 10%;
+margin-top: 15%;
+padding-top: 15%;
+text-align: end;
+}
+#tripleqash{
+color: azure;
+background-color: black;
+opacity: 30%;
+margin: auto;
+margin-left:15%;
+padding-top: 15%;
+text-align: left;
+}
+#reigns{
+    color: blanchedalmond;
+    background-color: blue;
+    opacity: 35%;  
+    padding-left: 5%;
+    text-align: start;
+}
+#christine{
+    color: aquamarine;
+    background-color: black;
+    opacity: 35%;
+    text-align:center ;
+
+}
+.paragraph{
+    color: blueviolet;
+    background-color: brown;
+    opacity: 30%;
+}
+#easyqash{
+    color: blanchedalmond;
+    background-color: aqua;
+    opacity: 30%;
+}
+#swiftqash{
+    color: aqua;
+    background-color: aliceblue;
+    opacity: 30%;
+}
+#pataqash{
+    color: beige;
+    background-color: black;
+    opacity: 30%;
+}
+.btn{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    border-radius: 15px;
+}
+#okumu{
+    height: 200px;
+    width: 200px;
+}
+.btn1{
+    height: 50px;
+    width: 200px;
+    background-color: blue;
+    border-radius: 25px;
+}
+.btn2{
+    height: 50px;
+    width: 200px;
+    background-color: blueviolet;
+    border-radius: 25px;
+   
+
+
+
+
+
+
+    
+
+
